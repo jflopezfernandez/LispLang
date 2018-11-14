@@ -1,2 +1,3 @@
 
-(print "Test")
+(defun test-print ()
+    (print "Test"))
